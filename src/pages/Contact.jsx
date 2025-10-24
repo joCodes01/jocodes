@@ -3,7 +3,9 @@ import React from 'react'
 
 export function Contact() {
    return(
-        <div>Contact page</div>
+        <div>
+            <p>Contact page</p>
+        </div>
     )
 }
 

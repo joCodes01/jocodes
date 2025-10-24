@@ -5,6 +5,7 @@ export function Navbar() {
     return(
         <nav className='navbar'>
             <NavLink to='/'>Home</NavLink>
+            <NavLink to='/design'>Design</NavLink>
             <NavLink to='/contact'>Contact</NavLink>
         </nav>
     )

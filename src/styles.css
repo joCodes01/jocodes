@@ -1,0 +1,28 @@
+:root {
+  --jocodes-darkblue: #1a2336;
+  --jocodes-lightblue: #7ce8e5;
+  --jocodes-orange: #fba345; 
+  --jocodes-white: #ffffff;
+  --jocodes-primary-font: Helvetica, Arial, sans-serif;
+}
+
+#root {
+    font-family: var(--jocodes-primary-font);
+}
+body{
+    background: var(--jocodes-darkblue);
+}
+h1 {
+    color: var(--jocodes-lightblue);
+}
+a{
+    color: var(--jocodes-white);
+    text-decoration: none;
+
+}
+p {
+    color: var(--jocodes-white);
+}
+.navItem{
+    color: var(--jocodes-white);
+}

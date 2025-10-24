@@ -5,7 +5,10 @@ export function Home() {
 
    return(
         <>
-            <div>Home page</div>
+            <div>
+                <p>Home page</p>
+                <h1>Joanna Wand</h1>
+            </div>
         </>
     )
 }
