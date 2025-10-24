@@ -20,6 +20,7 @@ function App() {
           </Routes>
         </div>
       </Router>
+      <p>Hello world</p>
     </>
   )
 }
